@@ -21,7 +21,7 @@ I am a **Full-Stack AI Engineer** with a passion for building and deploying end-
 ---
 ### 🔬 Research & Analytical Background
 * **Peer-Reviewed Research:** Published, independently conducted computational analysis of biomedical literature using Python and NLP, with over 50+ citations in *Scientometrics*
-Bhatt, B. (2021). [A multi-perspective analysis of retractions in life sciences](https://link.springer.com/article/10.1007/s11192-021-03907-0),"
+Bhatt, B. (2021). [A multi-perspective analysis of retractions in life sciences](https://link.springer.com/article/10.1007/s11192-021-03907-0),
 * **Data Science Expertise:** Extensive experience in analyzing clinical data using statistical methods.
 * **Peer Reviewer:** Invited peer reviewer for major CS and biomedical journals, including *IEEE Conference on Data Mining* and *Computers in Biology & Medicine*
 
